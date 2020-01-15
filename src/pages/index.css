@@ -1,0 +1,8 @@
+.record-table {
+  font-size: 12px;
+}
+
+.record-table tr td:first-of-type {
+  width: 30%;
+  max-width: 200px;
+}
